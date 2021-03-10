@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EduardoLopezExamen</string>
+    <string name="txt_mi_Encuesta">"Mi Encuesta "</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_lastname">Apellido</string>
+    <string name="text_Domicilio">Domicilio</string>
+    <string name="text_Restaurante">Restaurante</string>
+    <string name="text_Fuera">Fuera</string>
+    <string name="Postres">Postres</string>
+    <string name="bebidas">Bebidas</string>
+    <string name="saludable">Saludable</string>
+    <string name="text_pago_tarjeta">Pago con tarjeta</string>
+    <string name="text_ok">aceptar</string>
+    <string name="text_home">Mi encuesta</string>
+    <string name="text_Home_view">Inicio</string>
+    <string name="text_Registro_view">Registro</string>
+    <string name="text_exit_view">Salir</string>
+    <string name="hint_Promociones">Promociones</string>
+    <string name="text_list">Home</string>
+    <string name="text_Encuesta_view">Crear Encuesta</string>
+    <string name="text_detalle">Detalle</string>
+    <string name="txt_Registro">Registro</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_Password">Contraseña</string>
+    <string name="hint_Telefono">Numero</string>
+</resources>
